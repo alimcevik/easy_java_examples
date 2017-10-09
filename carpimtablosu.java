@@ -7,7 +7,5 @@ public class carpimtablosu {
   }                 
 System.out.println("");
     }
-     
-
   }
 }
